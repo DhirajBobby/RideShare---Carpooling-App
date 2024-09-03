@@ -13,10 +13,10 @@ Welcome to the Carpooling App project! This application allows users to find and
 This project is a complete carpooling solution that allows users to create accounts, search for available carpools, and post new carpool options. The app offers real-time data updates, user-friendly UI, and seamless map integration using OpenStreetMap.
 
 <p>
-  <img src="assets\images\ss1.jpg" alt="App Screenshot 1" width="600"/>
-  <img src="assets\images\ss2.jpg" alt="App Screenshot 2" width="600"/>
-  <img src="assets\images\ss3.jpg" alt="App Screenshot 3" width="600"/>
-  <img src="assets\images\ss4.jpg" alt="App Screenshot 4" width="600"/>
+  <img src="assets\images\ss1.jpg" alt="App Screenshot 1" width="300"/>
+  <img src="assets\images\ss2.jpg" alt="App Screenshot 2" width="300"/>
+  <img src="assets\images\ss3.jpg" alt="App Screenshot 3" width="300"/>
+  <img src="assets\images\ss4.jpg" alt="App Screenshot 4" width="300"/>
 </p>
 
 ## Features
