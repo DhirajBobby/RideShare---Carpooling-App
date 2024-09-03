@@ -6,12 +6,18 @@ Welcome to the Carpooling App project! This application allows users to find and
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Download](#download)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
 This project is a complete carpooling solution that allows users to create accounts, search for available carpools, and post new carpool options. The app offers real-time data updates, user-friendly UI, and seamless map integration using OpenStreetMap.
+
+<p>
+  <img src="assets\images\ss1.jpg" alt="App Screenshot 1" width="600"/>
+  <img src="assets\images\ss2.jpg" alt="App Screenshot 2" width="600"/>
+  <img src="assets\images\ss3.jpg" alt="App Screenshot 3" width="600"/>
+  <img src="assets\images\ss4.jpg" alt="App Screenshot 4" width="600"/>
+</p>
 
 ## Features
 - **User Authentication:** Secure user registration and login through Firebase Authentication.
@@ -47,10 +53,6 @@ flutter pub get
 - Open the project in your preferred IDE.
 - Run the app on an emulator or physical device.
 
-
-## Download
-You can download the APK file [here]()
-
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, please follow these guidelines:
 
@@ -63,7 +65,7 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 Please ensure your code adheres to the project's style and includes appropriate tests where applicable.
 
 ## Acknowledgements
-- **Team Members:** Kalidas, John, Jerin — for their collaboration and contributions to the development of this project.
+- **Team Members:** [Kalidas](https://github.com/Kalidasjayakumar), [John](https://github.com/John-kurian-03), [Jerin](https://github.com/JerinVincent) — for their collaboration and contributions to the development of this project.
 
 
 Feel free to reach out with any questions or suggestions. Enjoy using the Carpooling App!
